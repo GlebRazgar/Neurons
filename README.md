@@ -1,2 +1,2 @@
 # Neurons
-Modelling neurons - simple to complex
+Modelling neurons from scratch - simple to complex
