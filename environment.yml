@@ -1,0 +1,12 @@
+name: neurons_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - jupyter
+  - matplotlib
+  - numpy
+  - pip:
+    - neuron
+prefix: /Users/gleb/miniconda3/envs/neurons_env
