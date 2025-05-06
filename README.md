@@ -9,13 +9,13 @@ The repository is organized into two main sections:
 
 ### 1. Point Neurons
 Single-compartment models where the entire neuron is treated as a point in space.
-![Point Neuron Models](./assets/point-models.png)
+<img src="./assets/point-models.png" width="50%">
 
 
 ### 2. Multi-Compartment Neurons
 Models that divide neurons into multiple compartments to capture spatial complexity.
-![Point Neuron Models](./assets/multi-compartment.jpg)
-![Point Neuron Models](./assets/multi-compartment-models.png)
+<img src="./assets/multi-compartment.jpg" width="50%">
+<img src="./assets/multi-compartment-models.png" width="50%">
 
 
 
