@@ -1,6 +1,6 @@
 # Neurons
 
-This repository contains implementations of various neuron models, ranging from simple to complex, all built from first principles. The goal is to provide a resource for understanding the progressive complexity of computational neuroscience models.
+This repository contains various biophysical implementation of neurons, ranging from simple to complex, all built from first principles. The goal is to provide a resource for understanding the progressive complexity of computational neuroscience models.
 
 
 ## Repository Structure
