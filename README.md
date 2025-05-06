@@ -14,6 +14,7 @@ Single-compartment models where the entire neuron is treated as a point in space
 
 ### 2. Multi-Compartment Neurons
 Models that divide neurons into multiple compartments to capture spatial complexity.
+![Point Neuron Models](./assets/multi-compartment.jpg)
 ![Point Neuron Models](./assets/multi-compartment-models.png)
 
 
