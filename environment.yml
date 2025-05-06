@@ -9,4 +9,4 @@ dependencies:
   - numpy
   - pip:
     - neuron
-prefix: /Users/gleb/miniconda3/envs/neurons_env
+prefix: /Users/gleb/miniconda3/envs/neurons_env 
