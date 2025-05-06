@@ -36,7 +36,6 @@ To set things up simply install the dependancies using the conda command bellow 
 ```bash
 conda env create -f neurons_environment.yml
 conda activate neurons_env
-jupyter notebook
 ```
 
 Enjoy!
